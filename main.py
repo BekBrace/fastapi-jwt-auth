@@ -1,5 +1,5 @@
 #Twitter: Bek Brace
-#Instagram: Bek Brace
+#Instagram: Bek_Brace
 
 import uvicorn
 from fastapi import FastAPI, Body, Depends
